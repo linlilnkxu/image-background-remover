@@ -2,3 +2,4 @@
 原来的配置反而能跑（pages_build_output_dir = "/" + npx wrangler deploy），因为 wrangler deploy 有自己的处理方式。
 回退到能跑的配置：
 1. 去 GitHub 改 wrangler.toml：
+  
