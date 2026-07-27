@@ -1,10 +1,4 @@
-name = "bg-remover"
+
+name = "image-background-remover"
 compatibility_date = "2024-12-01"
-
-# === Cloudflare Configuration ===
-account_id = "63cdd50a1fcf8d2aac6501f42832b451"
-
-# === Pages Build Config ===
-# For the plain HTML version, no build command is needed
-# Build output is the project root (/)
-pages_build_output_dir = "/"
+pages_build_output_dir = ".next"
